@@ -1,10 +1,1 @@
- Volume in drive C is Windows 
- Volume Serial Number is D2D8-7477
-
- Directory of C:\Users\ntwananomathebula\Desktop\MyProject
-
-2022/09/07  14:06    <DIR>          .
-2022/09/07  14:06    <DIR>          ..
-2022/09/07  14:06                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)   2ÿ282ÿ663ÿ936 bytes free
+Chane 1
